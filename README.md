@@ -10,7 +10,7 @@ A leaf is a node with no children.
 
 Input:
 
-
+![image](https://github.com/eric82714/LeetCode_257--Binary-Tree-Paths/blob/master/image/input.PNG)
 
 Output: ["1->2->5", "1->3"]
 
